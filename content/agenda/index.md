@@ -19,6 +19,9 @@ Universitat Politecnica de Catalunya.
 Plaza de Eusebi Güell, 6. 
 Barcelona
 
+Agradecemos a la UPC su aportacion de espacio para la Reunion 32 de ESNOG
+
+
 {{% portfolio %}}
 
 {{% /portfolio %}} 
