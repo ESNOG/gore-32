@@ -75,10 +75,6 @@ pygmentsUseClasses = true # new add
     weight = 1
     url = "registro"
 [[menu.main]]
-    name = "Presentaciones"
-    weight = 2
-    url = "charlas"
-[[menu.main]]
     name = "Agenda"
     weight = 2
     url  = "agenda"

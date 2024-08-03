@@ -1,5 +1,5 @@
 ---
-title: "Agenda - ESNOG 31"
+title: "Agenda - ESNOG 32"
 ---
 
 ---------------------------
@@ -10,14 +10,17 @@ title: "Agenda - ESNOG 31"
 #
 
 
-El lugar de la celebración del ESNOG-31, tendrá lugar en:
+La celebración del ESNOG-32, tendrá lugar en:
 
 
-**Salón de Grados, edificio C  
-Escuela Politécnica Superior de la Universidad Autónoma de Madrid  
-Campus de Cantoblanco**  
+**UPC**
+Edificio Vertex.  
+Universitat Politecnica de Catalunya.  
+Plaza de Eusebi Güell, 6. 
+Barcelona
 
-https://www.uam.es/ss/Satellite?c=Page&cid=1446803444348&language=es&nodepath=Localizaci%3Fn&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&pid=1242660083021
+Agradecemos a la UPC su aportacion de espacio para la Reunion 32 de ESNOG
+
 
 {{% portfolio %}}
 
@@ -39,6 +42,12 @@ La emisión del evento estará disponible en el siguiente enlace:
 https://www.youtube.com/@esnognet/live
 
 
+También puedes seguirnos en nuestro canal de Telegram:
+
+https://t.me/esnog_es
+
+
+
 {{% portfolio %}}
 
 {{% /portfolio %}} 
@@ -47,7 +56,7 @@ https://www.youtube.com/@esnognet/live
 ---------------------------
 
 
-## Dia 24 de Abril de 2024
+## Dia 24 de Octubre de 2024
 ---------------------------
 
 ### 9:30 - 10:00 CEST
@@ -64,9 +73,9 @@ https://www.youtube.com/@esnognet/live
 #
 
 
-Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-31
+Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-32
 
-Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible este evento.
+Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible este evento.
 
 
 #
@@ -74,19 +83,15 @@ Presentación de los patrocinadores del ESNOG-31, que gracias a ellos es posible
 
 ### 10:15 - 10:45 CEST
 
-##### Ultra Ethernet
+##### Como hacer presentaciones estelares y no estrelladas
 #
 
-{{% portfolio image="/gore31/img/eduardo_collado.jpg" alt="Eduardo Collado" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Eduardo Collado (Tecnocratica)**
-
-[https://tecnocratica.net/](https://tecnocratica.net/)
+**Fernando Garcia**
 
 
-En las redes Ethernet tenemos mucha sobrecarga que afecta al rendimiento de las aplicaciones. Esta sobrecarga provoca que aplicaciones de IA y de HPC necesiten nuevas formas de intercambiar los datos, ahí es donde entran tecnologías como ultraethernet
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-eduardo_collado-ultraethernet.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -96,24 +101,19 @@ En las redes Ethernet tenemos mucha sobrecarga que afecta al rendimiento de las 
 
 ### 10:45 - 11:15 CEST
 
-##### Proyecto MadQuantum-CM: red de comunicaciones cuánticas de la comunidad de Madrid.
+##### Utilización de Proxmox
 #
 
-{{% portfolio image="/gore31/img/david_rincon.jpg" alt="David Rincón" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**David Rincon (REDIMadrid - IMDEA Software)**
+**Eduardo Taboada**
 
-MadQCI (Madrid Quantum Communication Infrastructure)
-
-[https://software.imdea.org/](https://software.imdea.org/) 
+[https://www.tecnocratica.net](https://www.tecnocratica.net)
 
 
-El Proyecto MadQuantum-CM es un proyecto enmarcado en los Planes Complementarios de I+D+I en el marco del Plan de Recuperación, Transformación y Resiliencia dentro de la línea dedicada a “COMUNICACIÓN CUÁNTICA”. En el participan, dentro de la Comunidad de Madrid, varias universidades y centros de investigación.
-
-El propósito a largo plazo de este proyecto es posicionarse dentro del panorama europeo de las comunicaciones cuánticas, en este sentido, el proyecto abarcará el diseño de una red cuántica estable en la comunidad de Madrid, para que se puede avanzar en la investigación de este tipo de tecnología, la ponencia mostrará el diseño de la nueva red y datos relevantes sobre las comunicaciones cuánticas en redes de investigación y cómo aplica a las redes autonómicas/nacionales.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -124,7 +124,7 @@ El propósito a largo plazo de este proyecto es posicionarse dentro del panoram
 ### 11:15-11:45
 #
 
-{{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore32/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -136,18 +136,15 @@ El propósito a largo plazo de este proyecto es posicionarse dentro del panoram
 
 ### 11:45 - 12:30 CEST
 
-#####  Uso de redes LORAWAN para dar una capa de servicio a las redes de comunicaciones
+#####  Uso de networking en kubernetes
 #
 
-{{% portfolio image="/gore31/img/ivan_boluda.jpg" alt="Ivan Boluda" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Ivan Boluda (Bconsultors)**
+**Javier Velez**
 
-[https://bconsultors.com/](https://bconsultors.com/)
 
-Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándonos en la implementación de una infraestructura completa con ChirpStack como backend. Exploraremos el funcionamiento y ventajas de LoRaWAN, detallaremos la configuración de ChirpStack y la integración de sensores y gateways. Además, demostraremos casos de uso prácticos en verticales resaltando sus beneficios para organizaciones y comunidades
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog31-bconsultors-IoT_lorawan_como_servicio.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 
 {{% /portfolio %}} 
@@ -158,19 +155,15 @@ Presentación de una visión integral de LoRaWAN y su papel en IoT, centrándono
 
 ### 12:30 - 13:15 CEST
 
-#### Osificación de Internet. El protocolo QUIC.
+#### Pon un poco de FOSS en tu VoIP
 #
 
-{{% portfolio image="/gore31/img/octavio_alfageme.jpg" alt="Octavio Alfageme" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Octavio Alfageme**
-
-[https://nopacketloss.es/](https://nopacketloss.es/)
-
-QUIC hoy representa alrededor del 30% del tráfico que circula por internet y promete con ir más allá como una respuesta a la imposibilidad de evolución histórica de protocolos como TCP y UDP. ¿Qué nos ha llevado a esta situación? ¿Qué aporta QUIC y cómo ha vencido las limitaciones que hasta hace unos años nos habíamos encontrado? ¿Cómo funciona? ¿Cuáles son las nuevas aplicaciones de QUIC que se están definiendo hoy en día dentro del IETF?
+**Jose Antonio Montes**
 
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-octavio_alfageme-osificacion_internet_QUIC.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
 
@@ -181,7 +174,7 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 ### 13:30 - 15:00 CEST 
 #
 
-{{% portfolio image="/gore31/img/lunch-icon-small.png" alt="comida" %}}
+{{% portfolio image="/gore32/img/lunch-icon-small.png" alt="comida" %}}
 
 ### COMIDA
 
@@ -193,17 +186,14 @@ QUIC hoy representa alrededor del 30% del tráfico que circula por internet y pr
 
 ### 15:00 - 15:30 CEST
 
-#### How a Meta datacenter works
+#### "Lab as Code" con Nokia Containerlab 
 
-{{% portfolio image="/gore31/img/mohsen.jpg" alt="Mohsen Dalil" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-
-**Mohsen Dalil**
-
-[https://www.meta.com/es/](https://www.meta.com/es/)
+**Víctor Serrano**
 
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-mohsen_dalil-how_meta_datacenter_works.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}} 
 
@@ -219,41 +209,41 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore32/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
 [https://www.catnix.net/es](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-catnix-novedades.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
 
 ##### DE-CIX 
 
-{{% portfolio image="/gore31/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore32/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
 
 **Marcos Sanz** 
 
 [https://www.de-cix.net/](https://www.de-cix.net/)
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-de-cix-novedades.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
 
 ##### ESPANIX
 
-{{% portfolio image="/gore31/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore32/img/javier_achirica.jpg" alt="Javier Achirica" %}}
 
 **Javier Achirica** 
 
 [https://www.espanix.net/es](https://www.espanix.net/es)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore31/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -265,7 +255,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 
 
-{{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore32/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -277,18 +267,15 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ### 16:45 - 17:15 CEST
 
-#### Ataques SIP y otras hierbas
+#### Enhancing Network Visibility and Enforcement for ISPs and Service Providers
 
-{{% portfolio image="/gore31/img/angel_elena.jpg" alt="Angel Elena" %}}
+At ntop, we specialize in the development of open-source tools that enhance network traffic visibility. In today's landscape, understanding network traffic extends beyond just volume and direction; it also encompasses the identification of application protocols, which are often transmitted via encrypted channels, and the assessment of cybersecurity risks. This presentation will showcase a range of tools and traffic inspection techniques that we have developed over the years. These innovations have culminated in the creation of a robust platform capable of delivering detailed network visibility at high-speed using standard, commodity hardware. For more information, please visit our GitHub repository 
 
-**Angel Elena (Craem)**
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-[https://diablo.craem.net/](https://diablo.craem.net/)
+**Luca Deri**
 
-Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el objetivo de proteger de manera proactiva y automatizada la red. Alimentando las reglas de filtrado en los firewalls de forma contínuada mediante los datos recolectados y guardados en las bases de datos de ataques de peticiones no lícitas a los honeypots.
-
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-angel_elena-ataques_voip.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 
 {{% /portfolio %}}  
@@ -297,34 +284,18 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 #
 ---------------------------
 
-### 17:15 - 18:15 CEST
+### Design-Driven Source of Truth, the Complete Lifecycle
 
-##### Mesa Redonda:
-#####
-##### El fallido bloqueo a Telegram. Algunas reflexiones.
-##### Afectación de ordenes judiciales al ecosistema de Internet en España.
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-#
+**Christian Adell**
 
-**Participantes:**
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
-**- Juan Antonio Lara Domínguez - Magistrado**\
-**- Tomas Ledo - [Tecnocratica](https://www.tecnocratica.net)**\
-**- Borja Marcos - [Sarenet](https://www.sarenet.es/)**
+
+{{% /portfolio %}}  
 
  
-#
----------------------------
-
-### 17:45 - 18:45 CEST
-
-
-{{% portfolio image="/gore31/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-### JUNTA SOCIOS ESNOG
-
-{{% /portfolio %}}  
-
 
 #
 ---------------------------
@@ -333,7 +304,7 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 #
 
 
-{{% portfolio image="/gore31/img/party01-icon.png" alt="cafe" %}}
+{{% portfolio image="/gore32/img/party01-icon.png" alt="cafe" %}}
 
 ### Beers & Talk
 
@@ -348,7 +319,7 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 #
 
 
-{{% portfolio image="/gore31/img/diner_small.jpg" alt="cena" %}}
+{{% portfolio image="/gore32/img/diner_small.jpg" alt="cena" %}}
 
 ### Cena ESNOG
 
@@ -362,31 +333,30 @@ Uso práctico de los honeypots en la infraestructura de VoIP en un ISP, con el o
 #
 ---------------------------
 
-## Dia 25 de Abril de 2024
+## Dia 25 de Octubre de 2024
 
-### 9:00 - 9:30 CEST 
+### 10:10 - 10:30 CEST 
 
 #### Registro y Bienvenida
 
-Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-31
+Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-32
 
 
 #
 ---------------------------
 
-### 9:30 - 10:15 CEST     
-#####  Tendencias en herramientas de monitorización de redes y modelo de madurez en automatización, orquestación y virtualización
+### 10:30 - 11:00 CEST 
 
-{{% portfolio image="/gore31/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
+#####  Como sacar el máximo provecho de los puertos de peering en nodos neutros
 
-**María Isabel Gandía**
+Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
 
-[https://www.csuc.cat/es](https://www.csuc.cat/es)
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un esfuerzo comunitario iniciado por las Redes Nacionales de Investigación y Educación (NREN) reunidas en el marco de la Asociación GÉANT en Europa. Periódicamente, SIG-NOC realiza una encuesta entre centros de operación de red (NOCs) sobre las herramientas que éstos utilizan para cada una de sus funciones. Esta presentación resumirá los [resultados de la última encuesta](https://wiki.geant.org/display/SIGNOC/SIG-NOC+Tools+Survey+2023), aportando información sobre las herramientas mejor valoradas, más importantes y más populares para cada una de las funciones evaluadas, así como tendencias en comparación con encuestas anteriores y algunas curiosidades. Además, se introducirá el modelo de madurez en orquestación, automatización y virtualización de GÉANT
+**Maria Isabel Gandía y Amedeo Beck-Pecoz**
 
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-maria_isabel_gandia-tendencias_herramientas_monitorización_redes_geant.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
 
 {{% /portfolio %}} 
@@ -395,23 +365,20 @@ El Grupo de Interés Especial en Centros de Operaciones de Red (SIG-NOC) es un e
 #
 ---------------------------
 
-### 10:15 - 11:00 CEST 
-
-####  Datos disponibles para el monitoreo de BGP en España: análisis y resultados
-
-{{% portfolio image="/gore31/img/gael_hernandez.jpg" alt="Gaël Hernandez" %}}
-
-**Gaël Hernandez**
-
-[https://www.catchpoint.com/](https://www.catchpoint.com/)
-
-Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lleva a cabo, cuáles son las fuentes de datos públicas disponibles y que podemos esperar con la cobertura BGP actual. Más adelante, se explora una metodología para mejorar la cobertura del monitoreo y se presentan los resultados de aplicarla en el contexto español.
+### 11:00 - 11:30 CEST 
 
 
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-gael_hernandez-datos_monitoreo_bgp.pdf))
+#### Peering en Meta
+
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+**Adriana Rubio**
 
 
-{{% /portfolio %}} 
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+
+
+{{% /portfolio %}}  
 
 
 #
@@ -420,7 +387,7 @@ Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lle
 ### 11:00-11:30
 #
 
-{{% portfolio image="/gore31/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore32/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -429,42 +396,35 @@ Esta charla analiza el monitoreo BGP en España desde la óptica de cómo se lle
 #
 ---------------------------
 
-### 11:30 - 12:15 CEST
+### 12:00 - 12:30 CEST
 
-####  Analizando capturas con Wireshark
+#####  Disponible
 
-{{% portfolio image="/gore31/img/eva_maria_castro.jpg" alt="Eva María Castro" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Eva María Castro** 
+**Pendiente**
 
-[https://www.urjc.es/eif](https://www.urjc.es/eif)
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
-En esta presentación se mostrará el uso de filtros y perfiles en Wireshark para observar ciertas características del tráfico, permitiendo un análisis más sencillo y específico de un determinado protocolo.
-
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog31-eva_m_castro-wireshark.pdf))
 
 {{% /portfolio %}} 
+
 
 
 #
 ---------------------------
 
-### 12:15 - 13:00 CEST
+### 12:30 - 13:00 CEST
 
-####  El reto de la eficiencia energética para los Datacenters
+#####  Disponible
 
-{{% portfolio image="/gore31/img/amedeo_beck.jpg" alt="Amedo Beck-Peccoz " %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
+**Pendiente**
 
-**Amedeo Beck-Peccoz**
-
-[https://www.espanix.net/es](https://www.espanix.net/es)
-
-Las nuevas leyes europeas establecen planes y objetivos de eficiencia energética que se aplican a todos los DC medianos y grandes. Vamos a ver cuales son los requerimientos y las actuaciones necesarias para cumplir. Y de paso ahorrar en el gasto energético.
-
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-amedeo_beck_peccoz-el_reto_de_la_eficiencia_energetica_para_los_datacenters.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
 
 {{% /portfolio %}} 
@@ -477,7 +437,7 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 #
 
 
-{{% portfolio image="/gore31/img/lunch-icon-small.png" alt="comida" %}}
+{{% portfolio image="/gore32/img/lunch-icon-small.png" alt="comida" %}}
 
 ### COMIDA
 
@@ -490,19 +450,15 @@ Las nuevas leyes europeas establecen planes y objetivos de eficiencia energétic
 
 ### 14:30 - 15:15 CEST
 
-####  Como Mikrotik arruinó mi vida
+#####  Disponible
 
-{{% portfolio image="/gore31/img/felipe_canyizares.jpg" alt="Felipe Cañizares" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Felipe Cañizares**
+**Pendiente**
 
-[https://dmntr.net/](https://dmntr.net/)
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
-La historia de como una persona normal y corriente puede acabar arruinando su vida por culpa de un fabricante letón de equipos de red.
-Básicamente como un anuncio de la DGT, sin imágenes de accidentes, pero con routers cost-effective haciendo BGP.
-De la droga se sale, de Mikrotik no.
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog31-dmntr_net_solutions-como-mikrotik_arruino_mi_vida.pdf))
 
 {{% /portfolio %}} 
 
@@ -512,18 +468,15 @@ De la droga se sale, de Mikrotik no.
 
 ### 15:15 - 15:45 CEST
 
-##### ¿Cómo debería ser mi CPD? 
+#####  Disponible
 
-{{% portfolio image="/gore31/img/virginia_sainz.jpg" alt="Virginia Sainz" %}}
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Virginia Sainz**
+**Pendiente**
 
-[https://www.data4group.com/](https://www.data4group.com/)
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
-Un repaso general a los principales elementos a tener en cuenta a la hora de diseñar o elegir el CPD en el que alojarse, desde el punto de vista de la infraestructura que da soporte al equipamiento IT.
-
-
-([**PRESENTACION en PDF**](/gore31/archivos/esnog_31-virginia_sanz-como_deberia_ser_mi_cpd.pdf))
 
 {{% /portfolio %}} 
 
@@ -533,7 +486,7 @@ Un repaso general a los principales elementos a tener en cuenta a la hora de dis
 
 ### 15:45 - 16:30 CEST
 
-#### AOB, Concurso y Despedida
+#### Concurso y Despedida
 
 
 #
