@@ -1,0 +1,140 @@
+--- layouts/shortcodes/sponsors.html
++++ layouts/shortcodes/sponsors.html
+@@ -1,54 +1,87 @@
+ <html>
+ <head>
+-<style>
+-h2 {text-align: center;}
+-</style>
+ </head>
+ <body>
+-<h2 id="patrocinadores">PATROCINADORES</h2>
+-<table align="center">
+-  <tr><td align="center">
+-<table>
+-  <tr>
+-    <td><a href="http://espanix.es"><center><img src="/gore32/img/ESpanix_2x1.svg" alt="Espanix" height="300" height=auto ></center></a></td>
+-    <td><a href="https://www.catnix.net"><center><img src="/gore32/img/catnix_600.png" alt="Catnix" class="center"></center></a></td>
+-  </tr>
+-</table>
+-</td></tr>
+-<tr><td align="center">
+-  <table>
+-  <tr>
+-		<td><a href="https://www.de-cix.net"><center><img src="/gore32/img/DE-CIX_2x1.svg" width="280" alt="DECIX"></a></td>
+-</tr>
+-</table>
+-</td></tr>
+-<tr><td align="center">
+-  <table>
+-    <tr>
+-      <td><a href="https://ayscom.com/es/"><center><img src="/gore32/img/Ayscom_2x1.svg" width="200" alt="Ayscom"></a></td>
+-      <td><a href="http://ipbroker.com"><center><img src="/gore32/img/IP-Broker_2x1.svg" width="200" alt="IPBroker"></a></td>
+-      <td><a href="https://es.nttdata.com"><center><img src="/gore32/img/NTT_2x1.svg" width="200" alt="NTT"></a></td>
+-      <td><a href="https://retn.net"><center><img src="/gore32/img/RETN_2x1.svg" width="200" alt="RETN"></a></td>
+-    </tr>
+-</table>
+-</td></tr>
+-<tr><td align="center">
+-  <table>
+-    <tr>
+-      <td><a href="https://www.isocfoundation.org"><center><img src="/gore32/img/ISOC_2x1.svg" width="250" alt="ISOC"></a></td>
+-      <td><a href="https://ripe.net"><center><img src="/gore32/img/RIPE_2x1.svg" width="250" alt="RIPE"></a></td>
+-    </tr>
+-</table>
+-</td></tr>
+-</table>
+-<style>
+- td, th, tr, table {
+-    border: 0 !important;
+-    border-spacing:0 !important;
+-  }
+-  .center {
+-  display: block;
+-  margin-left: auto;
+-  margin-right: auto;
+-  width: 100%;
+-}</style>
++  <style>
++    h2 {
++      text-align: center;
++    }
++    #sponsors {
++      display: flex;
++      flex-flow: column;
++    }
++    .sponsor-level {
++      display: flex;
++      flex-flow: row wrap;
++      align-items: center;
++      justify-content: center;
++      margin: auto;
++    }
++    .sponsor {
++      margin: 16px;
++    }
++    .iridium {
++    }
++    #catnix {
++      width: 357px;
++    }
++    #espanix {
++      width: 468px;
++    }
++    .platinum {
++    }
++    #decix {
++      width: 164px;
++    }
++    .gold {
++    }
++    #ayscom {
++      width: 180px;
++    }
++    #ipbroker {
++      width: 308px;
++    }
++    #ntt {
++      width: 273px;
++    }
++    #retn {
++      width: 327px;
++    }
++    .institutional {
++    }
++    #isoc {
++      width: 250px;
++    }
++    #ripe {
++      width: 251px;
++    }
++    .center {
++     display: block;
++     margin-left: auto;
++     margin-right: auto;
++     width: 100%;
++    }
++
++  </style>
++  <h2 class="center" id="patrocinadores">PATROCINADORES</h2>
++  <div id="sponsors">
++    <div class="sponsor-level">
++      <div class="iridium"><a href="https://www.catnix.net"><img src="/gore32/img/Catnix_357.png" alt="Catnix" class="sponsor" id="catnix"></a></div>
++      <div class="iridium"><a href="https://espanix.net"><img src="/gore32/img/ESpanix_sh.svg" alt="ESpanix" class="sponsor" id="espanix"></a></div>
++    </div>
++    <div class="sponsor-level">
++      <div class="platinum"><a href="https://www.de-cix.net"><img src="/gore32/img/DE-CIX_sh.svg" alt="DE-CIX" class="sponsor" id="decix"></a></div>
++    </div>
++    <div class="sponsor-level">
++      <div class="gold"><a href="https://ayscom.com"><img src="/gore32/img/Ayscom_sh.svg" alt="Ayscom" class="sponsor" id="ayscom"></a></div>
++      <div class="gold"><a href="https://ipbroker.com"><img src="/gore32/img/IP-Broker_sh.svg" alt="IP Broker" class="sponsor" id="ipbroker"></a></div>
++      <div class="gold"><a href="https://es.nttdata.com"><img src="/gore32/img/NTT_sh.svg" alt="NTT" class="sponsor" id="ntt"></a></div>
++      <div class="gold"><a href="https://retn.net"><img src="/gore32/img/RETN_sh.svg" alt="RETN" class="sponsor"></a></div>
++    </div>
++    <div class="sponsor-level">
++      <div class="institutional"><a href="https://www.isocfoundation.org"><img src="/gore32/img/ISOC_sh.svg" alt="ISOC" class="sponsor" id="isoc"></a></div>
++      <div class="institutional"><a href="https://www.ripe.net"><img src="/gore32/img/RIPE_sh.svg" alt="RIPE" class="sponsor" id="ripe"></a></div>
++    </div>
++  </div>
++</body>
++</html>

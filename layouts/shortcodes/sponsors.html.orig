@@ -1,0 +1,46 @@
+<h2 id="patrocinadores">PATROCINADORES</h2>
+<table align="center">
+  <tr><td align="center">
+<table>
+  <tr>
+    <td><a href="http://espanix.es"><center><img src="/gore32/img/Espanix_600.png" alt="Espanix" class="center"></center></a></td>
+    <td><a href="http://espanix.es"><center><img src="/gore32/img/catnix_600.png" alt="Catnix" class="center"></center></a></td>
+  </tr>
+</table>
+</td></tr>
+<tr><td align="center">
+  <table>
+  <tr>
+		<td><a href="https://opengear.com"><center><img src="/gore32/img/decix_300.png" alt="DECIX"></a></td>
+</tr>
+</table>
+</td></tr>
+<tr><td align="center">
+  <table>
+    <tr>
+      <td><a href="http://ipbroker.com"><center><img src="/gore32/img/ipbroker_200.png" alt="IPBroker"></a></td>
+      <td><a href="https://retn.net"><center><img src="/gore32/img/NTT_200.jpg" alt="NTT"></a></td>
+      <td><a href="https://retn.net"><center><img src="/gore32/img/RETN_Logo_RGB_200.png" alt="RETN"></a></td>
+    </tr>
+</table>
+</td></tr>
+<tr><td align="center">
+  <table>
+    <tr>
+      <td><a href="https://tecnocratica.net"><center><img src="/gore32/img/ISOC_Logo_200.jpg" alt="ISOC"></a></td>
+      <td><a href="https://ripe.net"><center><img src="/gore32/img/RIPE_180.png" alt="RIPE"></a></td>
+    </tr>
+</table>
+</td></tr>
+</table>
+<style>
+ td, th, tr, table {
+    border: 0 !important;
+    border-spacing:0 !important;
+  }
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}</style>
