@@ -19,7 +19,7 @@ pygmentsUseClasses = true # new add
     description = "GORE 32 website" # Site description.
     keywords = "esnog,gore32,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog32-framed.png" 
+    avatarurl = "img/esnog32-framed.svg"
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     #fixedbarContent = "Accede a mas detalles del evento en las entradas del menu superior" # Add fixedbar content
