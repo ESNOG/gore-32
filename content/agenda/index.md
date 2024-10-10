@@ -83,13 +83,14 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 
 ### 10:15 - 10:45 CEST
 
-##### Como hacer presentaciones estelares y no estrelladas
+##### Network Telemetry -- Exploring Technologies and Advancements in Standardization
 #
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Fernando Garcia**
+**Paolo Lucente**
 
+[https://www.ntt.net](https://www.ntt.net)
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
@@ -101,7 +102,7 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 
 ### 10:45 - 11:15 CEST
 
-##### Utilización de Proxmox
+##### Proxmox. La Solución de Virtualización de Código Abierto para el Futuro
 #
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -111,6 +112,12 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 [https://www.tecnocratica.net](https://www.tecnocratica.net)
 
 
+- Qué es Proxmox.
+- Características clave.
+- A quién va dirigido Proxmox.
+- Visión general del mercado de virtualización.
+- Compararemos Proxmox con otras soluciones.
+- Casos de uso y cómo empezar con Proxmox.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
@@ -134,14 +141,24 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 #
 ---------------------------
 
-### 11:45 - 12:30 CEST
+### 11:45 - 12:15 CEST
 
-#####  Uso de networking en kubernetes
+#####  Lab as Code" con Nokia Containerlab
 #
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Javier Velez**
+
+**Victor Serrano**
+
+[https://www.nokia.com](https://www.nokia.com)
+
+
+La necesidad de laboratorios para probar nuevas funcionalidades o validar cambios en redes es crucial. Con la adopción de la virtualización y los contenedores, se requieren herramientas más avanzadas que se adapten a los ciclos CI/CD. Actualmente, existen varias herramientas para desplegar laboratorios virtuales, pero muchas están enfocadas solo en máquinas virtuales y no en contenedores.
+ 
+Containerlab, desarrollado inicialmente por Nokia, surgió para crear topologías de red y probar su sistema operativo SR Linux en contenedores. Con el tiempo, se convirtió en un proyecto de código abierto, permitiendo que otros desarrolladores contribuyan. Ahora, cuenta con una comunidad activa que ha expandido su capacidad para soportar nuevos sistemas operativos en contenedores e incluso máquinas virtuales empaquetadas como contenedores.
+ 
+En esta charla mostraremos cómo Containerlab permite definir laboratorios virtuales "as Code", facilitando la creación y despliegue de topologías de red en minutos, sin importar la ubicación.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
@@ -153,7 +170,7 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 #
 ---------------------------
 
-### 12:30 - 13:15 CEST
+### 12:15 - 12:45 CEST
 
 #### Pon un poco de FOSS en tu VoIP
 #
@@ -171,7 +188,25 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 #
 ---------------------------
 
-### 13:30 - 15:00 CEST 
+### 12:45 - 13:15 CEST
+
+#### RIPE (TBD)
+#
+
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+**Michaela Galante**
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+
+{{% /portfolio %}} 
+
+
+#
+---------------------------
+
+### 13:15 - 14:45 CEST 
 #
 
 {{% portfolio image="/gore32/img/lunch-icon-small.png" alt="comida" %}}
@@ -184,13 +219,22 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 #
 ---------------------------
 
-### 15:00 - 15:30 CEST
+### 14:45 - 15:15 CEST
 
-#### "Lab as Code" con Nokia Containerlab 
+#### ¿Qué vemos esta noche? BIER y la evolución de arquitecturas de distribución de multicast.
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+La mayor parte de los usuarios de FTTH reciben hoy contenidos de televisión multicast. En esta charla repasamos la estructura del servicio de televisión: cabecera, trasporte y entrega en red de acceso FTTH, con una breve introducción de IGMP y PIM para aquellos que no están habituados a trabajar con multicast. 
 
-**Víctor Serrano**
+En presentaciones previas del ESNOG hemos hablado ya de Segment Routing, tanto SR-MPLS como SRv6, y cómo contribuye a simplifican la pila de protocolos y, sobre todo, eliminar la necesidad de mantener estado en todos los nodos de la red. Sin embargo, esto aplica exclusivamente al tráfico unicast. ¿Qué ocurre con el multicast en la red de transporte? SR-P2MP no consigue eliminar el estado de los nodos de red. Sólo BIER (Bit Indexed Explicit Replication) es capaz de conseguirlo. 
+
+Veamos qué nos aporta BIER en el transporte multicast, cómo funciona y las implicaciones que tiene su despliegue.
+
+{{% portfolio image="/gore32/img/octavio_alfageme.jpg" alt="Octavio Alfageme" %}}
+
+
+**Octavio Alfageme**
+
+[https://nopacketloss.es/](https://nopacketloss.es/)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
@@ -207,6 +251,8 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 
 Actualización sobre las últimas novedades en los diferentes puntos neutros existentes en España. (En orden alfabético)
 
+#### 15:15 - 15:30 CEST
+
 ##### CATNIX
 
 {{% portfolio image="/gore32/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
@@ -220,6 +266,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 {{% /portfolio %}}  
 
+#### 15:30 - 15:45 CEST
 
 ##### DE-CIX 
 
@@ -233,6 +280,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 {{% /portfolio %}}  
 
+#### 15:45 - 16:00 CEST
 
 ##### ESPANIX
 
@@ -265,35 +313,53 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 ---------------------------
 
-### 16:45 - 17:15 CEST
+### 16:30 - 17:00 CEST
 
-#### Enhancing Network Visibility and Enforcement for ISPs and Service Providers
+### Design-Driven Source of Truth, the Complete Lifecycle
 
-At ntop, we specialize in the development of open-source tools that enhance network traffic visibility. In today's landscape, understanding network traffic extends beyond just volume and direction; it also encompasses the identification of application protocols, which are often transmitted via encrypted channels, and the assessment of cybersecurity risks. This presentation will showcase a range of tools and traffic inspection techniques that we have developed over the years. These innovations have culminated in the creation of a robust platform capable of delivering detailed network visibility at high-speed using standard, commodity hardware. For more information, please visit our GitHub repository 
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/christian_adell.jpg" alt="Christian Adell" %}}
 
-**Luca Deri**
+
+**Christian Adell**
+
+[https://networktocode.com/](https://networktocode.com/)
+
+
+Nowadays, everyone agrees with the need for structured data to govern a network automation strategy (i.e., the Source of Truth, SoT). At this point, we have also seen some visionaries advocating for a better way to govern the data using a design-driven approach. The goal is not to micromanage the data objects in the SoT but to group data that make sense together as a single entity either for configuring or verifying the network state.
+
+In line with this view, we want to present an implementation of the idea that provides a full lifecycle of the design-driven approach. The idea is simple: to offer the network engineers (or consumers, in general) an entry point with minimal input data that is expanded according to the design. Then, the design implementation can be deployed to the network, updated with different input data, revisited due to a new design version, and, finally, decommissioned. All of this takes into account data interdependencies (i.e., you can’t change the data that a design owns, or decommission a design that another design depends on).
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 
 {{% /portfolio %}}  
-
 
 #
 ---------------------------
 
-### Design-Driven Source of Truth, the Complete Lifecycle
+### 17:00 - 17:30 CEST
+
+#### Enhancing Network Visibility and Enforcement for ISPs and Service Providers
+
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Christian Adell**
+
+**Luca Deri**
+
+
+[https://ntop.org](https://ntop.org)
+
+At ntop, we specialize in the development of open-source tools that enhance network traffic visibility. In today's landscape, understanding network traffic extends beyond just volume and direction; it also encompasses the identification of application protocols, which are often transmitted via encrypted channels, and the assessment of cybersecurity risks. This presentation will showcase a range of tools and traffic inspection techniques that we have developed over the years. These innovations have culminated in the creation of a robust platform capable of delivering detailed network visibility at high-speed using standard, commodity hardware. For more information, please visit our GitHub repository 
+
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
-
 {{% /portfolio %}}  
+
 
  
 
@@ -335,7 +401,7 @@ At ntop, we specialize in the development of open-source tools that enhance netw
 
 ## Dia 25 de Octubre de 2024
 
-### 10:10 - 10:30 CEST 
+### 10:00 - 10:30 CEST 
 
 #### Registro y Bienvenida
 
@@ -345,19 +411,17 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 ---------------------------
 
-### 10:30 - 11:00 CEST 
+### 9:00 - 10:30 CEST 
 
-#####  Como sacar el máximo provecho de los puertos de peering en nodos neutros
+#####  Visita BSC (Marenostrum Supercomputador) 
 
-Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Maria Isabel Gandía y Amedeo Beck-Pecoz**
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+[https://www.bsc.es/](https://www.bsc.es/)
+
  
-
 
 {{% /portfolio %}} 
 
@@ -365,14 +429,16 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 #
 ---------------------------
 
-### 11:00 - 11:30 CEST 
+### 10:30 - 11:00 CEST 
 
 
-#### Peering en Meta
+#### Discovering databrokers - Bringing to light hidden companies
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Adriana Rubio**
+**Ismael Castell**
+
+[https://www.upc.edu/es](https://www.upc.edu/es)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
@@ -393,20 +459,50 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 
 {{% /portfolio %}} 
 
+
 #
 ---------------------------
 
-### 12:00 - 12:30 CEST
+### 11:30 - 12:00 CEST 
 
-#####  Disponible
+#####  Coherent optical transceivers – current capabilities and future capabilities
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Pendiente**
+
+**Gerhard Stein**
+
+[https://www.flexoptix.net/](https://www.flexoptix.net/)
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
 
+{{% /portfolio %}} 
+
+
+
+#
+---------------------------
+
+### 12:00 - 12:30 CEST 
+
+#####  Como sacar el máximo provecho de los puertos de peering en nodos neutros
+
+{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+
+Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
+
+
+**Maria Isabel Gandía y Amedeo Beck-Pecoz**
+
+
+**- Maria Isabel Gandía - [CATNIX](https://www.catnix.net/es/)**\
+**- Amedeo Beck-Pecoz - [ESPANIX](https://www.espanix.net/es/)**
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
 
 {{% /portfolio %}} 
 
@@ -417,15 +513,14 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 
 ### 12:30 - 13:00 CEST
 
-#####  Disponible
+#####  LIBRE - FREE - TBD
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Pendiente**
+**LIBRE - FREE - TBD**
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
-
 
 {{% /portfolio %}} 
 
@@ -448,13 +543,20 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 ---------------------------
 
 
-### 14:30 - 15:15 CEST
+### 14:30 - 15:00 CEST
 
-#####  Disponible
+#####  VPP: A 100Gbps/100Mpps+ BGP/OSPF router with a single IPv4 address
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Pendiente**
+**Pim Van Pelt**
+
+[https://ipng.ch/](https://ipng.ch/)
+
+
+In this talk, Pim explores the changes needed to convert a set of VPP routers running in AS8298 to be able to use exactly one IPv4 and IPv6 address in an OSPFv3 and iBGP configuration. The use of /30 or /31 IPv4 transit networks between routers is a thing of the past, paving the way to conserve IPv4 addresses!
+
+The talk discusses the changes made to VPP and a popular routing suite Bird2, to enable both Babel and OSPFv3 to route traffic without using IPv4 transit networks, including operational notes how the author rolled this out in AS8298
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
@@ -466,13 +568,21 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 #
 ---------------------------
 
-### 15:15 - 15:45 CEST
+### 15:00 - 15:30 CEST
 
-#####  Disponible
+#####  Adopción de RPKI ROV
 
 {{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-**Pendiente**
+
+**Jovana Palibrk y Jorge Lizana**
+
+**[KENTIK](https://www.kentik.com/)**\
+**[AYSCOM](https://ayscom.com/es/)**
+
+
+La adopción de RPKI ROV ha crecido significativamente en los últimos cinco años. En un hito reciente, se vió que el porcentaje de rutas IPv4 con ROA en la tabla de enrutamiento global ya ha superado el 50% (IPv6 superó esta marca el año pasado). Además, otra importante operadora ha empezado a rechazar rutas no válidas para RPKI, reduciendo aún más la propagación de estas problemáticas rutas. Finalmente, en esta charla se repasará la posición de los AS más grandes de España en materia de creación de ROA.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
