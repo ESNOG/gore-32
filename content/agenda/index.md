@@ -86,15 +86,17 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 ##### Network Telemetry -- Exploring Technologies and Advancements in Standardization
 #
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/paolo_lucente.jpg" alt="Paolo Lucente" %}}
+
 
 **Paolo Lucente**
 
 [https://www.ntt.net](https://www.ntt.net)
 
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
-{{% /portfolio %}}  
+{{% /portfolio %}}
 
 
 #
@@ -105,7 +107,7 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 ##### Proxmox. La Solución de Virtualización de Código Abierto para el Futuro
 #
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/eduardo_taboada.jpg" alt="Eduardo Taboada" %}}
 
 **Eduardo Taboada**
 
@@ -146,7 +148,7 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 #####  Lab as Code" con Nokia Containerlab
 #
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/victor_serrano.jpg" alt="Victor_Serrano" %}}
 
 
 **Victor Serrano**
@@ -190,13 +192,14 @@ En esta charla mostraremos cómo Containerlab permite definir laboratorios virtu
 
 ### 12:45 - 13:15 CEST
 
-#### RIPE (TBD)
+#### Beyond the Database - The RESTful API
 #
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/michela_galante.jpg" alt="Michela Galante" %}}
 
-**Michaela Galante**
+**Michela Galante**
 
+En esta charla mostraremos cómo actualizar la información de la Ripe Database de forma automatizada usando la API disponible para todos los usuarios, y poder automatizar el proceso de creación y actualización de objetos mediante la API.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
@@ -223,11 +226,6 @@ En esta charla mostraremos cómo Containerlab permite definir laboratorios virtu
 
 #### ¿Qué vemos esta noche? BIER y la evolución de arquitecturas de distribución de multicast.
 
-La mayor parte de los usuarios de FTTH reciben hoy contenidos de televisión multicast. En esta charla repasamos la estructura del servicio de televisión: cabecera, trasporte y entrega en red de acceso FTTH, con una breve introducción de IGMP y PIM para aquellos que no están habituados a trabajar con multicast. 
-
-En presentaciones previas del ESNOG hemos hablado ya de Segment Routing, tanto SR-MPLS como SRv6, y cómo contribuye a simplifican la pila de protocolos y, sobre todo, eliminar la necesidad de mantener estado en todos los nodos de la red. Sin embargo, esto aplica exclusivamente al tráfico unicast. ¿Qué ocurre con el multicast en la red de transporte? SR-P2MP no consigue eliminar el estado de los nodos de red. Sólo BIER (Bit Indexed Explicit Replication) es capaz de conseguirlo. 
-
-Veamos qué nos aporta BIER en el transporte multicast, cómo funciona y las implicaciones que tiene su despliegue.
 
 {{% portfolio image="/gore32/img/octavio_alfageme.jpg" alt="Octavio Alfageme" %}}
 
@@ -235,6 +233,13 @@ Veamos qué nos aporta BIER en el transporte multicast, cómo funciona y las imp
 **Octavio Alfageme**
 
 [https://nopacketloss.es/](https://nopacketloss.es/)
+
+
+La mayor parte de los usuarios de FTTH reciben hoy contenidos de televisión multicast. En esta charla repasamos la estructura del servicio de televisión: cabecera, trasporte y entrega en red de acceso FTTH, con una breve introducción de IGMP y PIM para aquellos que no están habituados a trabajar con multicast. 
+
+En presentaciones previas del ESNOG hemos hablado ya de Segment Routing, tanto SR-MPLS como SRv6, y cómo contribuye a simplifican la pila de protocolos y, sobre todo, eliminar la necesidad de mantener estado en todos los nodos de la red. Sin embargo, esto aplica exclusivamente al tráfico unicast. ¿Qué ocurre con el multicast en la red de transporte? SR-P2MP no consigue eliminar el estado de los nodos de red. Sólo BIER (Bit Indexed Explicit Replication) es capaz de conseguirlo. 
+
+Veamos qué nos aporta BIER en el transporte multicast, cómo funciona y las implicaciones que tiene su despliegue.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
@@ -344,7 +349,8 @@ In line with this view, we want to present an implementation of the idea that pr
 #### Enhancing Network Visibility and Enforcement for ISPs and Service Providers
 
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+{{% portfolio image="/gore32/img/luca_deri.jpg" alt="Luca Deri" %}}
 
 
 **Luca Deri**
@@ -421,7 +427,6 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 [https://www.bsc.es/](https://www.bsc.es/)
 
- 
 
 {{% /portfolio %}} 
 
@@ -467,7 +472,8 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 #####  Coherent optical transceivers – current capabilities and future capabilities
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+{{% portfolio image="/gore32/img/gerhard_stein.jpg" alt="Gerhard Stein" %}}
 
 
 **Gerhard Stein**
@@ -481,25 +487,24 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 {{% /portfolio %}} 
 
 
-
 #
 ---------------------------
 
-### 12:00 - 12:30 CEST 
+### 15:00 - 15:30 CEST
 
-#####  Como sacar el máximo provecho de los puertos de peering en nodos neutros
+#####  Adopción de RPKI ROV
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-
-Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
+{{% portfolio image="/gore32/img/jorge_lizana+jovana_palibrik.jpg" alt="Jorge Lizana Jovana Palibrik" %}}
 
 
-**Maria Isabel Gandía y Amedeo Beck-Pecoz**
+**Jovana Palibrk y Jorge Lizana**
+
+**[KENTIK](https://www.kentik.com/)**\
+**[AYSCOM](https://ayscom.com/es/)**
 
 
-**- Maria Isabel Gandía - [CATNIX](https://www.catnix.net/es/)**\
-**- Amedeo Beck-Pecoz - [ESPANIX](https://www.espanix.net/es/)**
+La adopción de RPKI ROV ha crecido significativamente en los últimos cinco años. En un hito reciente, se vió que el porcentaje de rutas IPv4 con ROA en la tabla de enrutamiento global ya ha superado el 50% (IPv6 superó esta marca el año pasado). Además, otra importante operadora ha empezado a rechazar rutas no válidas para RPKI, reduciendo aún más la propagación de estas problemáticas rutas. Finalmente, en esta charla se repasará la posición de los AS más grandes de España en materia de creación de ROA.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
@@ -507,17 +512,23 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 {{% /portfolio %}} 
 
 
-
 #
 ---------------------------
 
 ### 12:30 - 13:00 CEST
 
-#####  LIBRE - FREE - TBD
+#####  400G and Beyond
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/manuel_mendez.jpg" alt="Manuel Mendez" %}}
 
-**LIBRE - FREE - TBD**
+**Manuel Mendez**
+
+
+[https://arista.com/](https://www.arista.com/)
+
+
+Revisión de la conectividad a nivel de tipos de puertos, ópticas, y estándares de 400G (para arriba: 800G, 1.6Tbps...). Hablaremos de los MSA (multi-source agreements) que hay para definir los nuevos estándares de conectividad, ópticas LPO, tendencia del mercado, ...
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
@@ -547,7 +558,8 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 
 #####  VPP: A 100Gbps/100Mpps+ BGP/OSPF router with a single IPv4 address
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/pim_van_pelt.jpg" alt="Pim Van Pelt" %}}
+
 
 **Pim Van Pelt**
 
@@ -558,31 +570,6 @@ In this talk, Pim explores the changes needed to convert a set of VPP routers ru
 
 The talk discusses the changes made to VPP and a popular routing suite Bird2, to enable both Babel and OSPFv3 to route traffic without using IPv4 transit networks, including operational notes how the author rolled this out in AS8298
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
- 
-
-
-{{% /portfolio %}} 
-
-
-#
----------------------------
-
-### 15:00 - 15:30 CEST
-
-#####  Adopción de RPKI ROV
-
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-
-**Jovana Palibrk y Jorge Lizana**
-
-**[KENTIK](https://www.kentik.com/)**\
-**[AYSCOM](https://ayscom.com/es/)**
-
-
-La adopción de RPKI ROV ha crecido significativamente en los últimos cinco años. En un hito reciente, se vió que el porcentaje de rutas IPv4 con ROA en la tabla de enrutamiento global ya ha superado el 50% (IPv6 superó esta marca el año pasado). Además, otra importante operadora ha empezado a rechazar rutas no válidas para RPKI, reduciendo aún más la propagación de estas problemáticas rutas. Finalmente, en esta charla se repasará la posición de los AS más grandes de España en materia de creación de ROA.
-
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
  
@@ -594,7 +581,35 @@ La adopción de RPKI ROV ha crecido significativamente en los últimos cinco añ
 #
 ---------------------------
 
-### 15:45 - 16:30 CEST
+### 15:00 - 15:30 CEST 
+
+#####  Como sacar el máximo provecho de los puertos de peering en nodos neutros
+
+{{% portfolio image="/gore32/img/maria_isabel+amedeo.jpg" alt="Maria Isabel Gandia Amedeo" %}}
+
+
+**Maria Isabel Gandía y Amedeo Beck-Pecoz**
+
+
+**- Maria Isabel Gandía - [CATNIX](https://www.catnix.net/es/)**\
+**- Amedeo Beck-Pecoz - [ESPANIX](https://www.espanix.net/es/)**
+
+
+
+Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+ 
+
+{{% /portfolio %}} 
+
+
+
+#
+---------------------------
+
+### 15:30 - 16:00 CEST
 
 #### Concurso y Despedida
 
