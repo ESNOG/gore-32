@@ -94,6 +94,8 @@ Presentación de los patrocinadores del ESNOG-32, que gracias a ellos es posible
 [https://www.ntt.net](https://www.ntt.net)
 
 
+In this presentation we will explore the world of next-generation telemetry. We will start with the landscape of existing technologies like gRPC dial-out and gNMI from Openconfig talking about their advantages and limitations. In a second part we will focus on the ongoing efforts in the area of next-generation telemetry at IETF, including improving and standardizing so-called YANG Push.
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
 {{% /portfolio %}}
