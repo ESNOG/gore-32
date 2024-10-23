@@ -150,7 +150,7 @@ In this presentation we will explore the world of next-generation telemetry. We 
 #####  Lab as Code" con Nokia Containerlab
 #
 
-{{% portfolio image="/gore32/img/victor_serrano.jpg" alt="Victor_Serrano" %}}
+{{% portfolio image="/gore32/img/victor_serrano.jpg" alt="Victor Serrano" %}}
 
 
 **Victor Serrano**
@@ -179,7 +179,7 @@ En esta charla mostraremos cómo Containerlab permite definir laboratorios virtu
 #### Pon un poco de FOSS en tu VoIP
 #
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/jose_antonio_montes.jpg" alt="Jose Antonio Montes" %}}
 
 **Jose Antonio Montes**
 
@@ -424,7 +424,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #####  Visita BSC (Marenostrum Supercomputador) 
 
 
-{{% portfolio image="/gore32/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore32/img/bsc-marenostrum-4.jpg" alt="Marenostrum-4" %}}
 
 
 [https://www.bsc.es/](https://www.bsc.es/)
@@ -492,7 +492,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 ---------------------------
 
-### 15:00 - 15:30 CEST
+### 12:00 - 12:30 CEST
 
 #####  Adopción de RPKI ROV
 
@@ -522,6 +522,7 @@ La adopción de RPKI ROV ha crecido significativamente en los últimos cinco añ
 #####  400G and Beyond
 
 {{% portfolio image="/gore32/img/manuel_mendez.jpg" alt="Manuel Mendez" %}}
+
 
 **Manuel Mendez**
 
