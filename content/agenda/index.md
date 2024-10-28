@@ -98,6 +98,9 @@ In this presentation we will explore the world of next-generation telemetry. We 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
 
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-paolo_lucente-telemetry.pdf))
+
+
 {{% /portfolio %}}
 
 
@@ -124,7 +127,7 @@ In this presentation we will explore the world of next-generation telemetry. We 
 - Casos de uso y cómo empezar con Proxmox.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-eduardo_taboada-proxmox.pdf))
 
 {{% /portfolio %}}  
 
@@ -165,7 +168,9 @@ Containerlab, desarrollado inicialmente por Nokia, surgió para crear topología
 En esta charla mostraremos cómo Containerlab permite definir laboratorios virtuales "as Code", facilitando la creación y despliegue de topologías de red en minutos, sin importar la ubicación.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-victor_serrano-containerlab.pdf))
+
+([**VIDEO DE LA DEMO DE CONTAINERLAB**](/gore32/archivos/esnog32-victor_serrano-containerlab.mp4))
 
 
 {{% /portfolio %}} 
@@ -184,7 +189,10 @@ En esta charla mostraremos cómo Containerlab permite definir laboratorios virtu
 **Jose Antonio Montes**
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+En esta charla exploraremos la importancia de los proyectos de Software Libre orientados a la tecnología de voz sobre IP (VoIP), destacando su impacto en la creación de redes de comunicación accesibles y flexibles. Además, revisaremos casos de uso habituales, mostrando cómo estas soluciones abiertas son empleadas en diversos entornos para optimizar la infraestructura de comunicaciones y facilitar la colaboración eficiente y segura.
+
+
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-jose_antonio_montes-un_poco_de_foss_en_tu_voip.pdf))
 
 {{% /portfolio %}} 
 
@@ -203,7 +211,7 @@ En esta charla mostraremos cómo Containerlab permite definir laboratorios virtu
 
 En esta charla mostraremos cómo actualizar la información de la Ripe Database de forma automatizada usando la API disponible para todos los usuarios, y poder automatizar el proceso de creación y actualización de objetos mediante la API.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-michela_galante-ripe_db_rest_api.pdf))
 
 {{% /portfolio %}} 
 
@@ -244,7 +252,7 @@ En presentaciones previas del ESNOG hemos hablado ya de Segment Routing, tanto S
 Veamos qué nos aporta BIER en el transporte multicast, cómo funciona y las implicaciones que tiene su despliegue.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-octavio_alfagem-bier.pdf))
 
 {{% /portfolio %}} 
 
@@ -269,25 +277,12 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [https://www.catnix.net/es](https://www.catnix.net/es)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-maria_isabel_gandia-catnix.pdf))
 
 {{% /portfolio %}}  
+
 
 #### 15:30 - 15:45 CEST
-
-##### DE-CIX 
-
-{{% portfolio image="/gore32/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
-
-**Marcos Sanz** 
-
-[https://www.de-cix.net/](https://www.de-cix.net/)
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
-
-#### 15:45 - 16:00 CEST
 
 ##### ESPANIX
 
@@ -298,7 +293,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [https://www.espanix.net/es](https://www.espanix.net/es)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-javier_achirica-espanix.pdf))
 
 {{% /portfolio %}}  
 
@@ -306,7 +301,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 ---------------------------
 
-### 16:15-16:45  
+### 15:45-16:30  
 #
 
 
@@ -338,7 +333,7 @@ Nowadays, everyone agrees with the need for structured data to govern a network 
 In line with this view, we want to present an implementation of the idea that provides a full lifecycle of the design-driven approach. The idea is simple: to offer the network engineers (or consumers, in general) an entry point with minimal input data that is expanded according to the design. Then, the design implementation can be deployed to the network, updated with different input data, revisited due to a new design version, and, finally, decommissioned. All of this takes into account data interdependencies (i.e., you can’t change the data that a design owns, or decommission a design that another design depends on).
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-christian_adell-desig_driven_automation.pdf))
 
 
 {{% /portfolio %}}  
@@ -364,7 +359,8 @@ At ntop, we specialize in the development of open-source tools that enhance netw
 
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-luca_deri-enhancing_network_visibility.pdf))
+
 
 {{% /portfolio %}}  
 
@@ -448,7 +444,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 [https://www.upc.edu/es](https://www.upc.edu/es)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-ismael_castell-discovering_databrokers.pdf))
 
 
 {{% /portfolio %}}  
@@ -483,7 +479,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 [https://www.flexoptix.net/](https://www.flexoptix.net/)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-gerhard_stein-coherent_optical_transceivers.pdf))
  
 
 {{% /portfolio %}} 
@@ -496,10 +492,10 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 #####  Adopción de RPKI ROV
 
-{{% portfolio image="/gore32/img/jorge_lizana+jovana_palibrik.jpg" alt="Jorge Lizana Jovana Palibrik" %}}
+{{% portfolio image="/gore32/img/jovana_palibrik.jpg" alt="Jovana Palibrik" %}}
 
 
-**Jovana Palibrk y Jorge Lizana**
+**Jovana Palibrk**
 
 **[KENTIK](https://www.kentik.com/)**\
 **[AYSCOM](https://ayscom.com/es/)**
@@ -508,7 +504,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 La adopción de RPKI ROV ha crecido significativamente en los últimos cinco años. En un hito reciente, se vió que el porcentaje de rutas IPv4 con ROA en la tabla de enrutamiento global ya ha superado el 50% (IPv6 superó esta marca el año pasado). Además, otra importante operadora ha empezado a rechazar rutas no válidas para RPKI, reduciendo aún más la propagación de estas problemáticas rutas. Finalmente, en esta charla se repasará la posición de los AS más grandes de España en materia de creación de ROA.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-jovana_palibrk-rpki_update.pdf))
  
 
 {{% /portfolio %}} 
@@ -533,7 +529,7 @@ La adopción de RPKI ROV ha crecido significativamente en los últimos cinco añ
 Revisión de la conectividad a nivel de tipos de puertos, ópticas, y estándares de 400G (para arriba: 800G, 1.6Tbps...). Hablaremos de los MSA (multi-source agreements) que hay para definir los nuevos estándares de conectividad, ópticas LPO, tendencia del mercado, ...
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-manel_mendez-400G_and_beyond.pdf))
  
 
 {{% /portfolio %}} 
@@ -574,7 +570,7 @@ In this talk, Pim explores the changes needed to convert a set of VPP routers ru
 The talk discusses the changes made to VPP and a popular routing suite Bird2, to enable both Babel and OSPFv3 to route traffic without using IPv4 transit networks, including operational notes how the author rolled this out in AS8298
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-pim_van_belt-vpp+ospfv3.pdf))
  
 
 
@@ -602,7 +598,7 @@ The talk discusses the changes made to VPP and a popular routing suite Bird2, to
 Los puertos de peering en los nodos neutros permiten controlar el coste del tránsito IP, mejorar la latencia de nuestra red y aumentar la disponibilidad del servicio para los usuarios. En esta presentación compartimos algunos consejos para aumentar la cantidad de tráfico que fluye a través de estos puertos.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore32/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore32/archivos/esnog32-maria_isabel_amedeo-como_sacar_el_maximo_provecho_ix_point.pdf))
  
 
 {{% /portfolio %}} 
@@ -616,6 +612,11 @@ Los puertos de peering en los nodos neutros permiten controlar el coste del trá
 
 #### Concurso y Despedida
 
+{{% portfolio %}}
+
+([**PRESENTACION DESPEDIDA - LINKS CON INFO GENERAL DEL ESNOG**](/gore32/archivos/esnog32-despedida.pdf))
+
+{{% /portfolio %}}
 
 #
 ---------------------------
